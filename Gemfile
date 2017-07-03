@@ -1,0 +1,13 @@
+source 'http://rubygems.org'
+
+gem 'capybara'
+gem 'capybara-screenshot'
+gem 'chromedriver-helper'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-benchmark'
+gem 'rspec-retry'
+gem 'selenium-webdriver', '2.53.4'
+gem 'site_prism'
+gem 'tiny_tds'
